@@ -1,6 +1,6 @@
-<b> <h1>Patika.dev <a href="https://app.patika.dev/"> Patika.Dev </a> </b> </h1>
+<b> <h1> <a href="https://app.patika.dev/"> Patika.Dev </a> </b> </h1>
 
-##<a href="https://app.patika.dev/mertanildk"> mertanildk </a>
+<b> <h2> <a href="https://app.patika.dev/mertanildk"> Mertanildk </a> </b> </h2>
 
 <b> <h2> Insertion Sort Projesi </h2> </b>
 
