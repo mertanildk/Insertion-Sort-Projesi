@@ -1,4 +1,4 @@
-##Patika.dev <a href="https://app.patika.dev/"> Patika.Dev </a>
+<b> <h1>Patika.dev <a href="https://app.patika.dev/"> Patika.Dev </a> </b> </h1>
 
 ##<a href="https://app.patika.dev/mertanildk"> mertanildk </a>
 
