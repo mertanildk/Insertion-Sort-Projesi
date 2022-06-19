@@ -1,4 +1,4 @@
-#<a href="https://app.patika.dev/"> Patika.Dev
+#Patika.dev <a href="https://app.patika.dev/"> Patika.Dev 
 #Patika.dev <a href="https://app.patika.dev/mertanildk"> mertanildk
 <b> <h2> Insertion Sort Projesi </h2> </b>
 
