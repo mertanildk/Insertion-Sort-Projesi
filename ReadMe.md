@@ -1,5 +1,5 @@
-#<a Patika.dev </a>
-#<a href="https://app.patika.dev/mertanildk"> </a> mertanildk
+#<a href="https://app.patika.dev/"> Patika.Dev
+#Patika.dev <a href="https://app.patika.dev/mertanildk"> mertanildk
 <b> <h2> Insertion Sort Projesi </h2> </b>
 
  <b> 1. Madde <p> </b> <em> "[22,27,16,2,18,6] dizinin sort türüne göre aşamalarını yazınız" </em>
