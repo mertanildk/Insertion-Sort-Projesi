@@ -1,6 +1,6 @@
 # Patika.dev <a href="https://app.patika.dev/mertanildk"> mertanildk
 <b> <h2> Insertion Sort Projesi </h2> </b>
-Açıklama yazıyorum
+
  <b> 1. Madde <p> </b> <em> "[22,27,16,2,18,6] dizinin sort türüne göre aşamalarını yazınız" </em>
   <table border=5  cellpadding=15 cellspacing=10>
 <th colspan=4> [22,27,16,2,18,6] dizisinin sort türüne göre aşamaları </th>
